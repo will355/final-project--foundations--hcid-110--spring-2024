@@ -48,6 +48,30 @@ sass --style=compressed --update --watch scss/style.scss:css/style.css
 **Note²**: Ignore any warnings in the `link` elements within the `head` elements of any of your HTML files about `The value of the href attribute ... must be relative.` Do, however, adhere to those warnings within the `body` element.
 
 ---
+
+## ❖ File List ❖
+
+### Files That Should Not Be Edited
+
+* Any `.gitignore` file
+* `README.md`
+* `.stylelintrc.json`
+* `.editorconfig`
+* `.htmlhintrc`
+* `package.json`
+* `package-lock.json`
+* `scss/_reset.css`
+
+### Files You Must Edit
+
+* `index.html`
+* `scss/_variables_.css`
+* `sass/style.scss`
+
+**Note**: You, of course, may add `.html` files to the root of this project; images to the `img` folder; and, other `.scss` files to the `scss` folder.
+
+---
+
 ## ❖ The Rules ❖
 
 * Use two typefaces from [`https://fonts.google.com/`](https://fonts.google.com/).
