@@ -50,6 +50,20 @@ sass --style=compressed --update --watch scss/style.scss:css/style.css
 ---
 ---
 
+## ❖ Questions to Consider ❖
+
+* What is the trend in pages that display similar content? How far can my design stray from that trend without affecting user experience (UX) negatively?
+* Is the contrast between type and (back) ground balanced sufficiently to make reading easy? If not, can I justify why?
+* Which typeface will help me to get my meaning across? If using more than one typeface, does each complement each other, and do they work harmoniously with the overall design?
+* Is the space I use around content helping the user consume my design, or is it making the user work hard at understanding my intentions?
+* Which sections of the content are most important?
+* What should be emphasized?
+* Does the color scheme complement the message I’m trying to convey, or is it simply serving an aesthetic role in my design?
+* Is my design communicating what I need it to?
+* Is my site easy to navigate?
+
+---
+
 ## ❖ Grading ❖
 
 | Item                                                                           | Points |
