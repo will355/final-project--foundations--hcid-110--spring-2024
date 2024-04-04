@@ -11,6 +11,17 @@
 
 ---
 
+## ❖・Introduction・❖
+
+For your final project, you’ll be building a portfolio-themed web site of your undergraduate work. If you don’t have a portfolio of work, you have three options:
+
+1. Use a friend’s, colleague’s, or family member’s work as the basis for your project.
+2. Create a portfolio of an artist’s or designer’s work whom you admire. (They can be alive or deceased.)
+3. Produce a portfolio for a fictitious person or entity using open source images.
+
+I encourage you to consider both traditional web design elements (navigations on top, 960 pixel widths, etc) and non-traditional elements (navigation elements perhaps on the bottom, non-linear display of content, etc). Experiment!
+
+---
 ---
 
 ## ❖ Due ❖
