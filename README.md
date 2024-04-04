@@ -50,6 +50,23 @@ sass --style=compressed --update --watch scss/style.scss:css/style.css
 ---
 ---
 
+## ❖ Grading ❖
+
+| Item                                                                           | Points |
+|--------------------------------------------------------------------------------|:------:|
+| All code is neat, professional, and well-organized                             | `20`   |
+| HTML is W3C-compliant                                                          | `15`   |
+| Sass is valid and compiles                                                     | `15`   |
+| Site responds to phone, tablet, and desktop                                    | `15`   |
+| Two external Google typefaces used                                             | `10`   |
+| Rules outlined above followed correctly                                        | `05`   |
+| Two or more colors used used                                                   | `05`   |
+| Proper file naming conventions used                                            | `05`   |
+| HTML scaffold is correct                                                       | `05`   |
+| Images 1MB or smaller                                                          | `05`   |
+
+---
+
 ## ❖ Due ❖
 
 Monday, 29 April 2024, at 5:00 PM.
