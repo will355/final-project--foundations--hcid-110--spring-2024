@@ -84,7 +84,7 @@ sass --style=compressed --update --watch scss/style.scss:css/style.css
 * _Do not_ alter any of the `.gitignore` files.
 * _All_ HTML files must go in the root of this folder, with the `index.html` file acting as the springboard for your site.
 * All images must be placed in the `img` folder and _must_ be 1MB _or_ smaller.
-* Your site must be a multi-page site consisting of at least three segments: _about_, _contact_, and _gallery_ or _portfolio_. These can be folders with HTML files inside them (`about/index.html`, `contact/index.html`, `gallery/index.html`, or `portfolio/index.html`) or files (`about.html`, `contact.html`, `gallery.html`, or `portfolio.html`).
+* In addition to `index.html`, your site must be comprised a multi-page site consisting of at least three more pages: `about.html`, `contact.html`, and `gallery.html` or `portfolio.html`.
 * Your site must respond to _at least_ the following breakpoints: `400` for phone, `768` for tablet, and `1024` for desktop, all in pixels.
 * Your site _cannot_ generate any horizontal scroll bars.
 * Your site’s design and UI must be logical, clear, and easy to use.
