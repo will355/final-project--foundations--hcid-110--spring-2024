@@ -115,7 +115,7 @@ sass --style=compressed --update --watch scss/style.scss:css/style.css
 | Site responds to phone, tablet, and desktop                                    | `15`   |
 | Two external Google typefaces used                                             | `10`   |
 | Rules outlined above followed correctly                                        | `05`   |
-| Two or more colors used used                                                   | `05`   |
+| Two or more colors used                                                        | `05`   |
 | Proper file naming conventions used                                            | `05`   |
 | HTML scaffold is correct                                                       | `05`   |
 | Images 1MB or smaller                                                          | `05`   |
