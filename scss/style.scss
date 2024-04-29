@@ -1,2 +1,97 @@
-@use 'variables' as *;
-@use 'reset' as *;
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+
+// Variables
+$primary-color: #ff6f61;
+$secondary-color: #1a1a1d;
+$font-family-roboto: 'Roboto', sans-serif;
+$font-family-montserrat: 'Montserrat', sans-serif;
+
+
+body {
+  font-family: $font-family-roboto;
+  background-color: $secondary-color;
+  color: white;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: $primary-color;
+  padding: 20px;
+
+  nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+
+    li {
+      display: inline-block;
+      margin-right: 20px;
+
+      a {
+        text-decoration: none;
+        color: white;
+
+        &:hover {
+          text-decoration: underline;
+        }
+      }
+    }
+  }
+}
+
+main {
+  padding: 20px;
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    font-family: $font-family-montserrat;
+  }
+}
+
+h1 {
+  text-decoration: underline;
+}
+
+footer {
+  background-color: $primary-color;
+  padding: 20px;
+}
+
+.p2 {
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.img1 {
+  margin-top: 20px;
+  max-width: 100%;
+  height: auto;
+  width: 50%;
+}
+
+.galleryimg1 {
+  width: 90%;
+  height: 30%;
+  border: solid;
+  text-align: center;
+}
+
+.galleryimg2 {
+  width: 90%;
+  height: 30%;
+  border: solid;
+}
+
+@media screen and (max-width: 400px) {}
+
+@media screen and (min-width: 401px) and (max-width: 768px) {}
+
+@media screen and (min-width: 769px) and (max-width: 1024px) {}
+
+@media screen and (min-width: 1025px) {}
